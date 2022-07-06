@@ -50,3 +50,17 @@ footer a {
 footer a i {
   margin-bottom: 10px;
 }
+
+div {
+    position: fixed;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+div iframe {
+  border: 100px;
+  border-color: black;
+  border-radius: 15px;
+  width: 350px;
+  height: 470px;
+}
